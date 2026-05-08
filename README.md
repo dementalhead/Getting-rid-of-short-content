@@ -4,10 +4,12 @@ Here`s a tutorial how to cut all short format content from your life
 
 I. Fast option:
 
-1.Delete TikTok
+1.Delete TikTok.
 
-2.Download my compiled modded version of Instagram and Revanced Youtube
+2.Download my compiled modded version of Instagram and Revanced Youtube.
 
-3.Go to youtube revanced settings and diasble shorts
+3.Go to youtube revanced settings and diasble shorts.
 
+II. Your custom mod for instagram
 
+Will be updated soon.
