@@ -10,6 +10,7 @@ I. Fast option:
 
 3.Go to youtube revanced settings and diasble shorts.
 
+
 II. Your custom mod for instagram
 
 Will be updated soon.
