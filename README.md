@@ -6,7 +6,7 @@ I. Fast option:
 
 1.Delete TikTok.
 
-2.Download my compiled modded version of Instagram and Revanced Youtube.
+2.Download my compiled modded version of Instagram and Revanced Youtube from Releases page.
 
 3.Go to youtube revanced settings and diasble shorts.
 
