@@ -1,5 +1,5 @@
 # Getting-rid-of-short-content
-Here`s a tutorial how to cut all short format content from your life
+Here`s a tutorial how to cut all short format content from your life and remove ads from apps.
 (Works only with android devices)
 
 I. Fast option:
