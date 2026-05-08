@@ -8,6 +8,6 @@ I. Fast option:
 
 2.Download my compiled modded version of Instagram and Revanced Youtube
 
-3.You will need to go to revanced settings in the YT app and diasble shorts
+3.Go to youtube revanced settings and diasble shorts
 
 
